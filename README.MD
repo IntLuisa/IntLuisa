@@ -1,8 +1,10 @@
 ## Olá, eu sou Luisa Cássia 🎮
+### 💻 Desenvolvedora front-end em formação, explorando o mundo dos apps e da web.
+Descobrindo novas ferramentas e linguagens (sou curiosa, então sempre tem algo novo!)
 
 ### 🔎 Onde me encontrar
 
-[![Mail Badge](https://img.shields.io/badge/_luisa.interaminense@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/_luisa.interaminense@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:jv0488598@gmail.com)&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/intluisa_-b1295b?style=flat-square&labelColor=b1295b&logo=Instagram&logoColor=fff)](https://www.instagram.com/intluisa/)
 <!-- [![Discord Badge](https://img.shields.io/badge/_jootave_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users/399906363486240770/) -->
 
