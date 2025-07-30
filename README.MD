@@ -55,7 +55,7 @@ Atualmente estou focada em aprender a construir aplicações completas utilizand
 </a>
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <a href="http://www.github.com/IntLuisa">
 <img src="https://github-readme-stats.vercel.app/api?username=IntLuisa&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" alt="IntLuisa's GitHub stats" />
 </a>
